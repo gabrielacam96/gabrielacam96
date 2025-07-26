@@ -1,28 +1,59 @@
 
-  # My Profile!
+# 👋 ¡Hola! Soy Gabi.  
+
+🎓 Graduado/a en Doble Grado en I2ade ,Informática + ADE  
+💻 Apasionado/a por el desarrollo de software, la inteligencia artificial y la ingeniería de datos  
+🌱 Actualmente aprendiendo: Machine Learning y AWS.  
+🚀 Buscando oportunidades como: Desarrollador de Software con enfoque a IA/Machine learning.  
+
+---
+
+## 🧰 Tech Stack
+
+- 🐍 Python | 🧠 Machine Learning | 📊 Data Engineering  
+- 🛠️ JavaScript | React | Node.js  
+- 🧱 SQL | PostgreSQL | MongoDB  
+- ☁️ AWS (S3, Lambda, Glue, Athena) | Docker | Kubernetes  
+- 🔧 Git | GitHub | CI/CD (GitHub Actions, Jenkins)
+
+---
+
+## 🌟 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| 🛒 **Comparador de Precios Minorista-Mayorista** | App web que extrae y analiza precios de Amazon y Alibaba para maximizar el beneficio | React, Django, BeautifulSoup, PostgreSQL, AWS |
+| 🧠 **Clasificador de Enfermedades** | Sistema que predice enfermedades a partir de síntomas o imágenes usando ML | Python, Scikit-learn, TensorFlow, Streamlit |
+| 🚕 **EasyCab** | Simulación de sistema de flota de taxis con gestión en tiempo real | React, REST API, Kafka, PostgreSQL |
+
+---
+
+## 📜 Certificaciones
+
+- 📊 **Databricks Certified Data Engineer Associate** (En curso)  
+- ☁️ **AWS Cloud Practitioner** (Planificado)  
   
-   <img src="https://us.123rf.com/450wm/yupiramos/yupiramos1809/yupiramos180926545/109686806-dise%C3%B1o-de-ilustraci%C3%B3n-de-vector-de-personaje-de-gato-negro-de-halloween.jpg?ver=6" align="right" alt="Back Cat" title="Black Cat" />
-   
- ### Hi :wave:
- ```JAVA
- public static void main(){
- System.out.println("My name is Gabriela");
- }
- ```
 
-- :mortar_board: I’m currently learning C++ and Java
-- :space_invader:I am very interested in databases and artificial intelligence
-- :school_satchel:I am a computer engineering student, I still have a long way to go to become an expert in programming.
+---
 
- ###  :shipit: My social networks
+## 📈 GitHub Stats
 
-<a href = "https://www.linkedin.com/in/gabriela-campoverde-726184108/">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
- </a>
-<a href="mailto:gkcc1@gcloud.ua.es">
-    <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40' />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" alt="stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight"/>
+</p>
 
+---
+
+## 📫 Contacto
+
+- ✉️ Email: gabrielacam96@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriela-campoverde-726184108/)  
+
+---
+
+> "La mejor manera de predecir el futuro es crearlo." – Abraham Lincoln
 
 
 
