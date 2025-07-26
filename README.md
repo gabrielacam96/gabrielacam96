@@ -39,9 +39,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" alt="stats"/>
+    <a href="https://app-price-sooty.vercel.app/login">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielacam96&show_icons=true&theme=tokyonight" alt="Ir a App Web"/>
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielacam96&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
